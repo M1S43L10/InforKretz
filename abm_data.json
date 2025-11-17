@@ -1,0 +1,17 @@
+{
+  "departamentos": [
+    {
+      "codigo": "001",
+      "nombre": "Panadería"
+    },
+    {
+      "codigo": "002",
+      "nombre": "Fiambrería"
+    },
+    {
+      "codigo": "003",
+      "nombre": "Carnicería"
+    }
+  ],
+  "equipos": []
+}
